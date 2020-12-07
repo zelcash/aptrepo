@@ -1,0 +1,72 @@
+Package: zelbench
+Version: 1.4.3
+Source: zelbench
+Maintainer: Zel Foundation <info@zel.cash>
+Homepage: https://zel.network
+Build-Depends: autoconf, automake, bsdmainutils, build-essential, git, g++-multilib, libc6-dev, libtool, m4, ncurses-dev, pkg-config, python, unzip, wget, zlib1g-dev
+Vcs-Git: https://github.com/zelcash/zelbench.git
+Vcs-Browser: https://github.com/zelcash/zelbench
+Architecture: all
+Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
+Priority: optional
+Section: utils
+Filename: pool/main/z/zelbench/zelbench_1.4.3_all.deb
+Size: 2705734
+SHA256: fa10cb37203b3933448c606701b02200706ab27502971440e354bb634167d3c9
+SHA1: 40624095cefa253b231118ba8498d261eb9565bd
+MD5sum: 69bd55b6ddcdbce595b9ebe4c3d5320e
+Description: ZelBench is a benchmarking tool for ZelNodes. By verifying user server, ZelBench ensure quality of ZelFlux solution.
+
+Package: zelcash
+Version: 4.0.4
+Source: zelcash
+Maintainer: Zel Foundation <info@zel.cash>
+Homepage: https://zel.network
+Build-Depends: autoconf, automake, bsdmainutils, build-essential, git, g++-multilib, libc6-dev, libtool, m4, ncurses-dev, pkg-config, python, unzip, wget, zlib1g-dev
+Vcs-Git: https://github.com/zelcash/zelcash.git
+Vcs-Browser: https://github.com/zelcash/zelcash
+Architecture: all
+Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
+Priority: optional
+Section: utils
+Filename: pool/main/z/zelcash/zelcash_4.0.4_all.deb
+Size: 5249270
+SHA256: f7c2675b1c49123cc052f77e71c586cb2aa48af12e00dbcb5c31ab6e47c258a4
+SHA1: 588bc426f9af64e977ea0ee44149a308480ceff9
+MD5sum: 9cb8cc1dc224232e5db02ddebe3e4450
+Description: ZelCash is a cryptocurrency that holds a central role in the Zel Ecosystem and empowers Flux - Your gateway to a decetralized world.
+
+Package: zelcashswingwallet
+Version: 8.2.0
+Architecture: all
+Depends: default-jdk, zelcash
+Installed-Size: 12580
+Maintainer: info@zel.cash
+Priority: low
+Section: misc
+Filename: pool/main/z/zelcashswingwallet/zelcashswingwallet_8.2.0_all.deb
+Size: 12654362
+SHA256: fa12768b53e03cf27cedbbf9fbc6859e8acd4ccb14a03b6c4a233e08afe8bfb8
+SHA1: 79508cbaa203af7852b4948b797d0279baae3804
+MD5sum: 98896c7e67c5aec5e245400db02809af
+Description: ZelCash Desktop GUI Wallet
+
+Package: zelcore
+Version: 4.2.1
+License: UNLICENSED
+Vendor: Zel Technologies GmbH <info@zel.cash>
+Architecture: amd64
+Maintainer: Zel Technologies GmbH <info@zel.cash>
+Installed-Size: 444214
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
+Homepage: https://github.com/zelcash/ZelCore#readme
+Priority: extra
+Section: default
+Filename: pool/main/z/zelcore/zelcore_4.2.1_amd64.deb
+Size: 79501314
+SHA256: 20ef82dc90ba5dcf23669d55a89d5282ca93bc0db8587c4213d6ef423f0506ed
+SHA1: 33f362a8cd8058718b7c42fe9c8d8e1ef3e2d984
+MD5sum: 19b16d1dc9542f5b64f9f3f505ce074b
+Description: 
+  ZelCore Wallet
+

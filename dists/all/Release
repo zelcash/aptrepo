@@ -1,0 +1,16 @@
+Codename: all
+Date: Sun, 06 Dec 2020 13:37:42 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ f10b8534fde00d6f811d0aeaf4517871 2905 main/binary-amd64/Packages
+ 034b8814633df57dff2f74dedc59f468 1281 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+SHA1:
+ 1987662e7c40897b51fbbb08b27481b97f9f173b 2905 main/binary-amd64/Packages
+ 08e3127b7894fba04c0f51fff8225057119cf555 1281 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+SHA256:
+ 8a46e8fd01d642a3b45e9077f097dd4e46e9321faf440f045b8d0a90caff2489 2905 main/binary-amd64/Packages
+ 7202b0c255be4316e4141899ed9ff4a182f6525ee4567dc7d9a7bb86c1c93d49 1281 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
