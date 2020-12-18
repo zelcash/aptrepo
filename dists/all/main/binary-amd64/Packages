@@ -18,7 +18,7 @@ MD5sum: 69bd55b6ddcdbce595b9ebe4c3d5320e
 Description: ZelBench is a benchmarking tool for ZelNodes. By verifying user server, ZelBench ensure quality of ZelFlux solution.
 
 Package: zelcash
-Version: 4.0.4
+Version: 4.0.5
 Source: zelcash
 Maintainer: Zel Foundation <info@zel.cash>
 Homepage: https://zel.network
@@ -29,11 +29,11 @@ Architecture: all
 Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
 Priority: optional
 Section: utils
-Filename: pool/main/z/zelcash/zelcash_4.0.4_all.deb
-Size: 5249270
-SHA256: f7c2675b1c49123cc052f77e71c586cb2aa48af12e00dbcb5c31ab6e47c258a4
-SHA1: 588bc426f9af64e977ea0ee44149a308480ceff9
-MD5sum: 9cb8cc1dc224232e5db02ddebe3e4450
+Filename: pool/main/z/zelcash/zelcash_4.0.5_all.deb
+Size: 5249132
+SHA256: 1035179f5169789cf525a5dd879372aa453e835b67d5ccadf3d6abcf9d8cd0d2
+SHA1: 557e21b6c6a027e6923f6630852676081e7b0bb0
+MD5sum: d6711d6782daea436a8de3817ac3d7b1
 Description: ZelCash is a cryptocurrency that holds a central role in the Zel Ecosystem and empowers Flux - Your gateway to a decetralized world.
 
 Package: zelcashswingwallet
