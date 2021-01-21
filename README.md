@@ -2,7 +2,7 @@
 
 Use the following to set it up. 
 ```
-echo 'deb https://apt.zel.cash/ all main' | sudo tee --append /etc/apt/sources.list.d/zelcash.list
+echo 'deb https://apt.zel.network/ all main' | sudo tee --append /etc/apt/sources.list.d/zelcash.list
 gpg --keyserver keyserver.ubuntu.com --recv 4B69CA27A986265D
 gpg --export 4B69CA27A986265D | sudo apt-key add -
 
