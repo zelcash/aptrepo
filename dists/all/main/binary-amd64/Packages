@@ -52,21 +52,21 @@ MD5sum: 98896c7e67c5aec5e245400db02809af
 Description: ZelCash Desktop GUI Wallet
 
 Package: zelcore
-Version: 4.11.2
+Version: 4.11.3
 License: UNLICENSED
 Vendor: Zelcore Technologies Inc. <info@zel.network>
 Architecture: amd64
 Maintainer: Zelcore Technologies Inc. <info@zel.network>
-Installed-Size: 468977
+Installed-Size: 468984
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
 Homepage: https://github.com/zelcore-io/ZelTreZ#readme
 Priority: extra
 Section: default
-Filename: pool/main/z/zelcore/zelcore_4.11.2_amd64.deb
-Size: 84327618
-SHA256: 9f05d1859e35ecac8afd161d5ea79c3bb0d482bf6ea042908e993832ddbe6cee
-SHA1: df1527514cc76a6407621b30c5a34c3b142e7cba
-MD5sum: e2b685eb568d768d9a3c3553938d2d78
+Filename: pool/main/z/zelcore/zelcore_4.11.3_amd64.deb
+Size: 84317930
+SHA256: a7b9b421f940871849176d4983e3d2aaa5a0459885c948235eb455360a7bde23
+SHA1: f70da64471ece62e85548cd118ab06db3e89abd5
+MD5sum: 3770bcbe09c416dbd15139c3f83998da
 Description: 
   Zelcore Platform
 
