@@ -1,40 +1,40 @@
 Package: zelbench
-Version: 1.4.3
+Version: 2.0.0
 Source: zelbench
-Maintainer: Zel Foundation <info@zel.cash>
-Homepage: https://zel.network
+Maintainer: Flux Foundation <info@runonflux.io>
+Homepage: https://runonflux.io
 Build-Depends: autoconf, automake, bsdmainutils, build-essential, git, g++-multilib, libc6-dev, libtool, m4, ncurses-dev, pkg-config, python, unzip, wget, zlib1g-dev
-Vcs-Git: https://github.com/zelcash/zelbench.git
-Vcs-Browser: https://github.com/zelcash/zelbench
+Vcs-Git: https://github.com/runonflux/fluxbench.git
+Vcs-Browser: https://github.com/runoflux/fluxbench
 Architecture: all
 Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
 Priority: optional
 Section: utils
-Filename: pool/main/z/zelbench/zelbench_1.4.3_all.deb
-Size: 2705734
-SHA256: fa10cb37203b3933448c606701b02200706ab27502971440e354bb634167d3c9
-SHA1: 40624095cefa253b231118ba8498d261eb9565bd
-MD5sum: 69bd55b6ddcdbce595b9ebe4c3d5320e
-Description: ZelBench is a benchmarking tool for ZelNodes. By verifying user server, ZelBench ensure quality of ZelFlux solution.
+Filename: pool/main/z/zelbench/zelbench_2.0.0_all.deb
+Size: 1305104
+SHA256: 43c148b2e29ce96d4c70fbfa59ff31688d6e6dd536f040554373b150a0caaaf1
+SHA1: 5dfd1ddbd02871575b16863887c3052afb10e6b9
+MD5sum: 6a88349e8eacbed1bf8496afbe7e7d60
+Description: FluxBench is a benchmarking tool for FluxNodes. By verifying user server, FluxBench ensure quality of Flux solution.
 
 Package: zelcash
-Version: 4.0.5
+Version: 5.0.0
 Source: zelcash
-Maintainer: Zel Foundation <info@zel.cash>
-Homepage: https://zel.network
+Maintainer: Flux Foundation <info@runonflux.io>
+Homepage: https://runonflux.io
 Build-Depends: autoconf, automake, bsdmainutils, build-essential, git, g++-multilib, libc6-dev, libtool, m4, ncurses-dev, pkg-config, python, unzip, wget, zlib1g-dev
-Vcs-Git: https://github.com/zelcash/zelcash.git
-Vcs-Browser: https://github.com/zelcash/zelcash
+Vcs-Git: https://github.com/runonflux/fluxd.git
+Vcs-Browser: https://github.com/runonflux/fluxd
 Architecture: all
 Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
 Priority: optional
 Section: utils
-Filename: pool/main/z/zelcash/zelcash_4.0.5_all.deb
-Size: 5249132
-SHA256: 1035179f5169789cf525a5dd879372aa453e835b67d5ccadf3d6abcf9d8cd0d2
-SHA1: 557e21b6c6a027e6923f6630852676081e7b0bb0
-MD5sum: d6711d6782daea436a8de3817ac3d7b1
-Description: ZelCash is a cryptocurrency that holds a central role in the Zel Ecosystem and empowers Flux - Your gateway to a decetralized world.
+Filename: pool/main/z/zelcash/zelcash_5.0.0_all.deb
+Size: 5258524
+SHA256: 9636f557c908e3adacb626ecbcb21be6ce3a6fd5605d6abd21d84ab1528c1e9f
+SHA1: c0520b71614bf61923a306f55cc379c8fdbaea92
+MD5sum: 07bb032ba7e1945291f6322c19952611
+Description: Flux is a cryptocurrency that empowers Flux - Your gateway to a decetralized world.
 
 Package: zelcashswingwallet
 Version: 8.2.0
