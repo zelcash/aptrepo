@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: all
+Date: Wed, 22 Dec 2021 13:35:25 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ 761bb0916179bb8d84864d08fede4acf 3745 main/binary-amd64/Packages
+ d8422b57876daec94725296f1150adcd 1407 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+SHA1:
+ d8abb9f638ac2a0577c56d7103f0a48c43193fe5 3745 main/binary-amd64/Packages
+ fef9d55dc502bc51b9fd5f2d9545e35316009736 1407 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+SHA256:
+ 3948e310195a831fe39c12144faf23ed977bbca9f7a5c25ca60fd680c1665269 3745 main/binary-amd64/Packages
+ 9750fbcd33e23aea6c4432de405a977fd85c0df738a8f173b52681173d9951e3 1407 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmHDKZ0ACgkQS2nKJ6mG
+Jl0sPQwAwKQGTbg72YlSUMR3Q0H8rcYQx+Be0l7cdQGC+1tE3c8setTU7/ZHzJw1
+8EsYWSK0E1ffSGDur14sOkfkinWkWn9LuEk3fTFrSfqKgiz6Ql3caHk0BzKWEarW
+E9wfcXH2+QVw+/ha8XE8k+mJmuHivqJgjDzBRZZR/5uuTrze9foY6bI1KM+0zzXm
+VMS/Xsxk5T8LNVVqA8wnHbDmApmp4wmVHlTPXSEkBppvRwy4c40XvgQ62x26f8Oa
+bQrJ0UDklukjEPB074GIU88hhL14QXHV9LmuD8z5RagdOJqs932Sb226Gw98/PTS
+Ete56rnN5l8O1vwd91qzUY1daIGhIuv0DtuYpdy/ADor6DB2gZ+nvbwoBjf/mTc2
+5FkeQJydbdxv1HadA5AjfZcFpicaX2INDUiYbL8Mf/xQSa7xtqL3vX3MEBhRxJJI
+wO0yKdPs6zJ3kAtxiYSAEYLzA1XbxkLfyHsyBAD304JtsvqsX63VLL7kTGPKH/TX
+rKJEg7ej
+=ftxY
+-----END PGP SIGNATURE-----
